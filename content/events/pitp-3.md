@@ -16,7 +16,7 @@ navigation:
 registrationLink: https://forms.gle/YuW7TakErxsTr6Tp8
 seo:
   title: Spring Meet 2025
-  description: Join us for our upcoming spring gathering! Location and date to be confirmed.
+  description: Join us for our upcoming spring gathering!
 status: published
 time:
   start: 11:30
@@ -25,7 +25,7 @@ time:
 
 ## Hello Coventry!
 
-We're excited to announce our upcoming spring meet! On the XX April 2026!
+We're excited to announce our upcoming spring meet! On the 25th April 2026!
 
 ### What to Expect
 
@@ -40,7 +40,7 @@ Our brand new venue will include some PITP Firsts! They are;
 
 ### Event Details
 
-We will be at War Memorial Park, Coventry on the xxth April 2026, 
+We will be at War Memorial Park, Coventry on the 25th April 2026, 
 
 **Getting Public transport to PITP?**
 
