@@ -6,7 +6,7 @@ sitemap:
 
 # Privacy Policy
 
-> February 2026
+> July 2026
 
 ## 1. Introduction
 
@@ -53,7 +53,7 @@ Under the UK GDPR, we rely on the following legal bases:
 
 We do not sell your data. We may share data with:
 
-- **Service Providers**: [Google](https://policies.google.com/privacy) (for file storage), [Discord](https://discord.com/privacy) (for communication), [SumUp](https://www.sumup.com/en-gb/privacy/) (for payment processing)
+- **Service Providers**: [Cloudflare](https://www.cloudflare.com/en-gb/privacypolicy/) (for web hosting) [Google](https://policies.google.com/privacy) (for file storage), [Discord](https://discord.com/privacy) (for communication), [SumUp](https://www.sumup.com/en-gb/privacy/) (for payment processing)
 - **Authorities**: The Police or Social Services, strictly if there is a safeguarding concern or risk to life.
 
 ## 6. Your Rights
